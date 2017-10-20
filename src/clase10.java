@@ -25,6 +25,7 @@ public class clase10 {
 			System.out.print("Mensajes al dia por segundo: "+mensajesDia+"\n");	
 			System.out.println("Mensajes a la semana por segundo: "+mensajesSemana);
 			System.out.println("Mensajes al mes por segundo: "+mensajesMes);
+			//prueba
 	}
 
 }
